@@ -319,7 +319,7 @@ h3.menu-item-title {
   .panel-footer section:nth-child(3) {
     margin-bottom: 0; /* margin already exists on the whole row */
   }
-  .panel-footer section lr {
+  .panel-footer section hr {
     width: 50%;
   }
   /* End Footer */
